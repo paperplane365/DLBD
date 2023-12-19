@@ -18,7 +18,7 @@ Tutorial menggunakan Jigdo untuk download Debian DLBD.
 
 Berikut Langkah-langkah untuk memulai lab praktiknya :
 
-Langkah 1 : Install Jigdo-lite
+## Langkah 1 : Install Jigdo-lite
 
 Silahkan buka terminal masuk user root atau gunakan sudo command di user privilledge. Pastikan internet yang digunakan stabil dan tidak ada kendala.
 
@@ -50,7 +50,7 @@ https://ftp.unpad.ac.id/iso/debian/current/amd64/jigdo-dlbd/
 (Opsional) Download file dengan ekstensi .jigdo dan untuk file dengan ekstensi .template.
 Setelah selesai mendownload file tersebut pastikan file berada pada direktori dengan jumlah penyimpanan yang besar, karena untuk file iso DLBD sendiri akan menjadi sekitar 47-+ GB.
 
-Langkah 3 : Jigdo file download
+## Langkah 3 : Jigdo file download
 Buka Kembali terminal ketikan perintah berikut untuk menjalankan tools jigdo.
 ```
 Jigdo-lite

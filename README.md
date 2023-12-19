@@ -60,18 +60,18 @@ Masukan url file downloadnya contoh :
 ```
 https://ftp.unpad.ac.id/iso/debian/current/amd64/jigdo-dlbd/debian-12.2.0-amd64-DLBD-1.jigdo
 ```
-```lalu tekan enter dan jigdo akan mulai mendownloadnya.```
+```lalu tekan enter``` dan jigdo akan mulai mendownloadnya.
 
-```Setelah itu jigdo akan meminta file yang telah di download untuk di scan, masukan nama filenya. Contoh : debian-12.2.0-amd64-DLBD-1.jigdo tekan enter maka file tersebut akan terscan dan jigdo akan mendownload file .template```
+Setelah itu jigdo akan meminta file yang telah di download untuk di scan, ```masukan nama filenya. Contoh : debian-12.2.0-amd64-DLBD-1.jigdo tekan enter``` maka file tersebut akan terscan dan jigdo akan mendownload file .template
 
-```setelah file .template terdownload, maka akan kembali kebagian scan file namun yang berbeda terdapat 1 list file yang tadi telah kita download dengan nama debian-12.2.0-amd64-DLBD-1.jigdo.  lalu tekan enter```
+setelah file .template terdownload, maka akan kembali kebagian scan file namun yang berbeda terdapat 1 list file yang tadi telah kita download dengan nama debian-12.2.0-amd64-DLBD-1.jigdo.  ```lalu tekan enter```
 
-```setelah itu jigdo akan meminta Debian mirror url.```
+setelah itu jigdo akan meminta Debian mirror url.
 ```
 https://www.debian.org/mirror/list
 ```
 
-```silahkan pilih salah satu mirror Debian. Disini saya akan menggunakan mirror dari us. ```
+silahkan pilih salah satu mirror Debian. Disini saya akan menggunakan mirror dari us. 
 ```
 http://ftp.us.debian.org/debian/
 ```

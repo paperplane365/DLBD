@@ -23,12 +23,14 @@ Langkah 1 : Install Jigdo-lite
 Silahkan buka terminal masuk user root atau gunakan sudo command di user privilledge. Pastikan internet yang digunakan stabil dan tidak ada kendala.
 
 Ketikan perintah
+```
+sudo apt-get update
 
-```sudo apt-get update```
-
+```
 lalu untuk install jigdo-lite
-
-```sudo apt-get install jigdo-lite -y```
+```
+sudo apt-get install jigdo-lite -y
+```
 
 setelah selesai buat directory untuk menyimpan file Debian DLBD dan masuk ke directory yang telah dibuat. Pastikan penyimpanan dikrektory cukup untuk file ISO Debian DLBD. Untuk size Debian DLBD -+ 45 GB.
 Langkah 2 : File Debian DLBD dengan Ekstensi .Jigdo dan .Template

@@ -36,24 +36,31 @@ setelah selesai buat directory untuk menyimpan file Debian DLBD dan masuk ke dir
 Langkah 2 : File Debian DLBD dengan Ekstensi .Jigdo dan .Template
 Buka browser dan cari situs yang menyediakan file Debian DLBD dengan ekstensi .jigdo, 
 
-Komunitas Debian Langsung 
+Komunitas Debian Langsung
+```
 https://cdimage.debian.org/debian-cd/current/amd64/jigdo-dlbd/
+```
 
 Miror Indonesia
+```
 https://ftp.unpad.ac.id/iso/debian/current/amd64/jigdo-dlbd/
-
+```
  
 (Opsional) Download file dengan ekstensi .jigdo dan untuk file dengan ekstensi .template.
 Setelah selesai mendownload file tersebut pastikan file berada pada direktori dengan jumlah penyimpanan yang besar, karena untuk file iso DLBD sendiri akan menjadi sekitar 47-+ GB.
 
 Langkah 3 : Jigdo file download
 Buka Kembali terminal ketikan perintah berikut untuk menjalankan tools jigdo.
+```
 Jigdo-lite
+```
 
 Setelah tools jigdo dijalankan jigdo akan meminta file dengan ekstensi .jigdo untuk menjalankan download. Jika kita download manual kita bisa memasukan nama filenya. jika belum, masukan url file jigdo yang terdapat pada web yang kalian pilih. Kita anggap kita belum mendownload filenya secara manual di web. Jadi kita akan download via jigdo.
 
 Masukan url file downloadnya contoh :
+```
 https://ftp.unpad.ac.id/iso/debian/current/amd64/jigdo-dlbd/debian-12.2.0-amd64-DLBD-1.jigdo
+```
 lalu tekan enter dan jigdo akan mulai mendownloadnya.
 
 Setelah itu jigdo akan meminta file yang telah di download untuk di scan, masukan nama filenya. Contoh :
@@ -64,12 +71,14 @@ tekan enter maka file tersebut akan terscan dan jigdo akan mendownload file .tem
 setelah file .template terdownload, maka akan kembali kebagian scan file namun yang berbeda terdapat 1 list file yang tadi telah kita download dengan nama debian-12.2.0-amd64-DLBD-1.jigdo.  lalu tekan enter
 
 setelah itu jigdo akan meminta Debian mirror url.
-
+```
 https://www.debian.org/mirror/list
+```
 
 silahkan pilih salah satu mirror Debian. Disini saya akan menggunakan mirror dari us. 
+```
 http://ftp.us.debian.org/debian/
+```
 lalu tekan enter dan jigdo akan mendownload semua package yang tersedia di mirror Debian dan dijadikan dalam satu file yang Bernama debian-12.2.0-amd64-DLBD-1.iso dengan menggunakan file .jigdo dan .template yang telah kita buat tadi.
-
 Untuk proses download memakan waktu yang cukup lama tergantung dengan koneksi internet yang anda gunakan. Dari pengalaman saya sendiri menggunakan virtual machine dengan NAT memakan waktu sekitar 9 – 10 jam.
 

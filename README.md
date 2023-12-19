@@ -33,7 +33,8 @@ sudo apt-get install jigdo-lite -y
 ```
 
 setelah selesai buat directory untuk menyimpan file Debian DLBD dan masuk ke directory yang telah dibuat. Pastikan penyimpanan dikrektory cukup untuk file ISO Debian DLBD. Untuk size Debian DLBD -+ 45 GB.
-Langkah 2 : File Debian DLBD dengan Ekstensi .Jigdo dan .Template
+
+## Langkah 2 : File Debian DLBD dengan Ekstensi .Jigdo dan .Template
 Buka browser dan cari situs yang menyediakan file Debian DLBD dengan ekstensi .jigdo, 
 
 Komunitas Debian Langsung

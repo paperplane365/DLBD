@@ -1,3 +1,4 @@
+# Build Debian DLBD using Jigdo Template and Jigsaw Tools
 DLBD adalah singkatan dari Debian Live Bootable Disc. Ini adalah media instalasi Debian yang dapat di-boot dari CD, DVD, atau USB. DLBD memungkinkan pengguna untuk menginstal Debian pada komputer mereka tanpa perlu menggunakan CD atau DVD fisik. DLBD sendiri memungkinkan kita menggunakan Debian tanpa harus mengganti disc atau DVD untuk menginstall service yang akan kita gunakan.
 
 Pada kesempatan kali kita akan lab mengenai cara download De.bian DLBD menggunakan jigdo.

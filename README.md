@@ -8,12 +8,10 @@ Jigsaw download (Jigdo) adalah tools yang biasanya digunakan untuk mengunduh dan
 Syarat-syarat mengikuti Lab Praktik
 
 Sebelum memulai praktik ada beberapa hal yang harus di persiapkan diantarnya :
-1.	Niat dan percaya diri.
-2.	OS Linux.
-3.	Akses internet yang stabil.
-4.	File dasar Debian-version-x-DLBD.Jigdo.
-5.	Situs Miror/Repo Debian.
-6.	Segelas Kopi dan rekan-rekannya.
+1.	OS Linux.
+2.	Akses internet yang stabil.
+3.	File dasar Debian-version-x-DLBD.Jigdo.
+4.	Situs Miror/Repo Debian.
 
 Tutorial menggunakan Jigdo untuk download Debian DLBD.
 

@@ -25,7 +25,6 @@ Silahkan buka terminal masuk user root atau gunakan sudo command di user privill
 Ketikan perintah
 ```
 sudo apt-get update
-
 ```
 lalu untuk install jigdo-lite
 ```
